@@ -7,9 +7,9 @@ Bank Customer Churn Dataset: https://www.kaggle.com/datasets/gauravtopre/bank-cu
 
 According to data from the European Banking Federation [1], the number of banks in Europe declined by 33% between 2009 and 2020, largely due to fierce competition in the sector. Bank X is facing a customer churn rate of 20.37%, which makes it difficult to retain clients and ensure sustainable growth.
 
-
-<img width="828" height="526" alt="image" src="https://github.com/user-attachments/assets/15f308b5-e04e-461d-9be5-ab6a96fd01fb" />
-
+<p align="center">
+ <img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/15f308b5-e04e-461d-9be5-ab6a96fd01fb" />
+</p>
 
 To stay competitive, banks need to go beyond traditional strategies and find new ways to keep existing customers while attracting new ones. In this project, I built a predictive model to analyze customer behavior and proposed strategies that can help Bank X manage churn more effectively.
 
@@ -17,7 +17,10 @@ To stay competitive, banks need to go beyond traditional strategies and find new
 
 Using the 5 Whys analysis, the root cause of churn at Bank X was traced to the lack of strategies aimed at building long-term customer relationships.
 
-<img width="1506" height="1323" alt="Portfolio drawio" src="https://github.com/user-attachments/assets/c1613756-db98-4d81-b92c-0eb97fcdc082" />
+<p align="center">
+ <img width="300" height="500" alt="Portfolio drawio" src="https://github.com/user-attachments/assets/c1613756-db98-4d81-b92c-0eb97fcdc082" />
+</p>
+
 
 ## Building the Prediction Model
 
@@ -49,7 +52,7 @@ Looking deeper into false positives (FP) and false negatives (FN), the KNN model
 | GBM | 225 | 2286 | 87 | 402 |
 | SVM | 162 | 2336 | 37 | 465 |
 
-Next, use this number for cost-benefit analysis. Assuming the bank offers a $1,000 retention incentive per high-risk customer and earns a 3% profit margin from customer net value, KNN delivered the highest projected profit.
+Next, use this number for cost-benefit analysis. Assuming the bank offers a $1,000 retention incentive per high-risk customer and earns a 3% profit margin from customer net value. KNN delivered the highest projected profit as the table show.
 
 | Model | Total Loss | Total Benefit | Profit |
 | --- | --- |--- | --- | 
