@@ -66,6 +66,8 @@ Based on both accuracy and business impact, the K-Nearest Neighbors model is rec
 - Loyalty programs tailored to customer segments
 - Personalized offers for at-risk clients
 - Improved customer service initiatives to strengthen long-term relationships
+
+
 These actions would not only reduce churn but also enhance customer satisfaction and profitability.
 
 
